@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic[email]
+docx2txt
+PyMuPDF
+python-multipart
+sentence_transformers
